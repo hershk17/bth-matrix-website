@@ -1,5 +1,10 @@
 import React from "react";
 import { useParams } from "react-router-dom";
+import Lab1 from "./labs/Lab1";
+import Lab2 from "./labs/Lab2";
+import Lab3 from "./labs/Lab3";
+import Lab4 from "./labs/Lab4";
+import Lab5 from "./labs/Lab5";
 
 export default function Lab() {
   const { id } = useParams();
@@ -7,17 +12,17 @@ export default function Lab() {
   const GetLab = () => {
     switch (id) {
       case "1":
-        return "You are here!";
+        return <Lab1 />;
       case "2":
-        return "This is the content for lab 2";
+        return <Lab2 />;
       case "3":
-        return "This is the content for lab 3";
+        return <Lab3 />;
       case "4":
-        return "This is the content for lab 4";
+        return <Lab4 />;
       case "5":
-        return "This is the content for lab 5";
+        return <Lab5 />;
       default:
-        return "This lab does not exist!";
+        return "<b>Not found!!</b> <br/>This lab does not exist!";
     }
   };
 

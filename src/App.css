@@ -1,6 +1,28 @@
-.footer{
-    position: fixed !important;
-    bottom: 0;
-    width: 100%;
-    padding: 20px 0 20px 0 !important;
+.footer {
+  position: fixed !important;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 0 20px 0 !important;
+}
+
+ol {
+  padding-top: 20px;
+  width: 75%;
+}
+
+li {
+  padding-bottom: 10px !important;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.lab2-img {
+  width: 25vw;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  margin-top: 20px;
 }
