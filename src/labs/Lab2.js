@@ -9,7 +9,7 @@ export default function Lab2() {
           <h3>1. Original </h3>
           <img
             className="lab2-img"
-            src='/assets/controller.jfif'
+            src='/assets/img/controller.jfif'
             alt="controller.jfif"
           />
         </div>
@@ -17,7 +17,7 @@ export default function Lab2() {
           <h3>2. Modified </h3>
           <img
             className="lab2-img"
-            src='/assets/controller-modified.jpg'
+            src='/assets/img/controller-modified.jpg'
             alt="controller-modified.jfif"
           />
         </div>
@@ -25,8 +25,8 @@ export default function Lab2() {
           <h3>3. Created </h3>
           <img
             className="lab2-img"
-            src='/assets/controller-drawing.jpg'
-            alt="controller-created.jfif"
+            src='/assets/img/controller-drawing.jpg'
+            alt="controller-drawing.jfif"
           />
         </div>
       </div>
