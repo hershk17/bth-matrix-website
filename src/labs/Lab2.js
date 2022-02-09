@@ -1,6 +1,10 @@
 import React from "react";
 import Footer from "../Footer";
 
+import originalImg from '../assets/controller.jfif';
+import modifiedImg from '../assets/controller-modified.jpg';
+import drawingImg from '../assets/controller-drawing.jpg';
+
 export default function Lab2() {
   return (
     <div>
@@ -9,7 +13,7 @@ export default function Lab2() {
           <h3>1. Original </h3>
           <img
             className="lab2-img"
-            src={require('../assets/controller.jfif')}
+            src={originalImg}
             alt="controller.jfif"
           />
         </div>
@@ -17,7 +21,7 @@ export default function Lab2() {
           <h3>2. Modified </h3>
           <img
             className="lab2-img"
-            src={require('../assets/controller-modified.jpg')}
+            src={modifiedImg}
             alt="controller-modified.jfif"
           />
         </div>
@@ -25,7 +29,7 @@ export default function Lab2() {
           <h3>3. Created </h3>
           <img
             className="lab2-img"
-            src={require('../assets/controller-drawing.jpg')}
+            src={drawingImg}
             alt="controller-created.jfif"
           />
         </div>
