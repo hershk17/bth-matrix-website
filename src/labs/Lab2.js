@@ -9,7 +9,7 @@ export default function Lab2() {
           <h3>1. Original </h3>
           <img
             className="lab2-img"
-            src={require("../img/controller.jfif")}
+            src={require('../img/controller.jfif')}
             alt="controller.jfif"
           />
         </div>
@@ -17,16 +17,16 @@ export default function Lab2() {
           <h3>2. Modified </h3>
           <img
             className="lab2-img"
-            src={require("../img/controller-modified.jpg")}
-            alt="controller.jfif"
+            src={require('../img/controller-modified.jpg')}
+            alt="controller-modified.jfif"
           />
         </div>
         <div>
           <h3>3. Created </h3>
           <img
             className="lab2-img"
-            src={require("../img/controller-drawing.jpg")}
-            alt="controller.jfif"
+            src={require('../img/controller-drawing.jpg')}
+            alt="controller-created.jfif"
           />
         </div>
       </div>
@@ -86,7 +86,7 @@ export default function Lab2() {
       <br />
       <br />
       <br />
-      <Footer datetime="06/02/2022, 03:56:44 PM" />
+      <Footer datetime="06/02/2022, 05:21:44 PM" />
     </div>
   );
 }

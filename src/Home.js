@@ -6,7 +6,7 @@ import Footer from "./Footer";
 export default function Home() {
   return (
     <div>
-      <Link to="/~bth645_221a16/guidelines">
+      <Link to="guidelines">
         <Button>View Web Usability Guidelines</Button>
       </Link>
       <br />

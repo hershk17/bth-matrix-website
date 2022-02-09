@@ -15,14 +15,14 @@ function App() {
       <br />
       <Container>
         <Routes>
-          <Route path="/~bth645_221a16/" element={<Home />} />
-          <Route path="/" element={<Navigate to="/~bth645_221a16/" />} />
-          <Route path="/~bth645_221a16/lab/:id" element={<Lab />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Navigate to="/" />} />
+          <Route path="lab/:id" element={<Lab />} />
           <Route
-            path="/~bth645_221a16/assignment/:id"
+            path="assignment/:id"
             element={<Assignment />}
           />
-          <Route path="/~bth645_221a16/guidelines" element={<Guidelines />} />
+          <Route path="guidelines" element={<Guidelines />} />
         </Routes>
       </Container>
     </BrowserRouter>

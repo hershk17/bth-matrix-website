@@ -5,7 +5,7 @@ export default function Lab3() {
   return (
     <div>
       This is the content for Lab 3
-      <Footer datetime="28/01/2022, 07:17:52 PM"/>
+      <Footer datetime="09/02/2022, 01:16:32 AM"/>
     </div>
   );
 }
