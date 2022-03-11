@@ -9,8 +9,8 @@ export default function Lab4() {
         <div className="video-player">
           <ReactPlayer
             height="500px"
-            width="auto"
-            url="/assets/video/penguin.MP4"
+            width="400px"
+            url="https://youtu.be/30IQR6eELPM"
             controls={true}
           />
         </div>
