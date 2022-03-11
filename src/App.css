@@ -26,3 +26,15 @@ li {
   border-radius: 10px;
   margin-top: 20px;
 }
+
+.video-grid {
+  display: flex;
+}
+
+.video-player{
+  padding: 0 50px 0 100px;
+}
+
+.video-desc {
+  padding: 0 100px 0 50px;
+}
