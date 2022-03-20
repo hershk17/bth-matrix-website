@@ -7,6 +7,18 @@ import ReactPlayer from "react-player";
 export default function Assignment1() {
   return (
     <div>
+      <h1>Assignment 1</h1>
+      <p>
+        I declare that this is wholly my own work in accordance with Seneca
+        Academic Policy. No part of this work has been copied manually or
+        electronically from any other source (including web sites) or
+        distributed to other students.
+        <br />
+        <br />
+        Name <b>Harsh K</b> <br />
+        Student ID <b>127318194</b>
+      </p>
+      <br />
       <div className="video-grid">
         <div>
           <h2>Video</h2>
@@ -87,19 +99,6 @@ export default function Assignment1() {
           underwhelmed by what the result would have been. So, I decided to look
           up someone iconic and presented a brief story about their life.
         </p>
-      </p>
-      <br />
-      <br />
-      <h2>Student Oath</h2>
-      <p>
-        I declare that this is wholly my own work in accordance with Seneca
-        Academic Policy. No part of this work has been copied manually or
-        electronically from any other source (including web sites) or
-        distributed to other students.
-        <br />
-        <br />
-        Name <b>Harsh K</b> <br />
-        Student ID <b>127318194</b>
       </p>
       <br />
       <br />
