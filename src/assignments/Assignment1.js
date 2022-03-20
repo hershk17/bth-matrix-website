@@ -90,6 +90,19 @@ export default function Assignment1() {
       </p>
       <br />
       <br />
+      <h2>Student Oath</h2>
+      <p>
+        I declare that this is wholly my own work in accordance with Seneca
+        Academic Policy. No part of this work has been copied manually or
+        electronically from any other source (including web sites) or
+        distributed to other students.
+        <br />
+        <br />
+        Name <b>Harsh K</b> <br />
+        Student ID <b>127318194</b>
+      </p>
+      <br />
+      <br />
       <br />
       <br />
       <Footer datetime="19/03/2022, 10:00:19 PM" />
