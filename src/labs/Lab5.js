@@ -14,7 +14,7 @@ export default function Lab5(props) {
       <p>
         I learned quite a few things about the p5.js library after doing this
         lab. I found that it is very powerful and offers a lot of functionality
-        and flexiblity. Originally, I wanted to create a single complex object
+        and flexibility. Originally, I wanted to create a single complex object
         which was composed of various other shapes. I changed my mind later on
         because I wanted to try a simple motion animation and a complex shape
         would require maintaining a ton of coordinate variables. I created 5
