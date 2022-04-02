@@ -1,11 +1,12 @@
 import React from "react";
 import Footer from "../Footer";
+import MySketch from "./sketch";
 
-export default function Lab5() {
+export default function Lab5(props) {
   return (
     <div>
-      This is the content for Lab 5
-      <Footer datetime="28/01/2022, 07:17:52 PM"/>
+      <MySketch />
+      <Footer datetime="01/04/2022, 07:52:14 PM" />
     </div>
   );
 }
