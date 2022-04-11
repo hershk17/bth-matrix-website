@@ -249,12 +249,38 @@ export default function Assignment2() {
       <br />
       <br />
       <h3>Reflection</h3>
-      <p>Reflection goes here</p>
+      <p>
+        I learned a lot of things from working on this assignment. Primarily, I
+        got a ton more experience with video editing. Once again, I used a new
+        editor for this project, called DaVinci Resolve 17. After having spent a
+        few hours editing my presentation, I can safely say that this was the
+        best editor I have used so far and something I will probably stick to
+        for a while. For the most part, due to limited resources on hand, I was
+        restricted to creating a video from home using my smartphone, which is
+        the Samsung Galaxy S9+. I also used an old DSLR; Canon EOS 1300D for a
+        few shots but since it is a more portrait image focused camera, the
+        video output was not as impressive compared to my smartphone. Although
+        it was useful in getting some stable close-up shots. To create a
+        promotional presentation, I looked at the things I had on hand which had
+        been a great purchase for my use cases. I ultimately decided to use my
+        wireless gaming mouse as the focus for my presentation of an upcoming
+        product from a company called G. Though I was also interested in
+        creating a tour video of Seneca College since my smartphone camera has
+        some great digital stabilization features. However, I live quite far
+        away from the Newnham campus and I was unable to make time for the
+        extensive commute required. To research my product of focus then, I used
+        the official company's website to get my information, which is Logitech.
+        I also watched some tutorials on how to record b-roll shots and mix
+        multiple video and audio clips together. Overall, it was a fun
+        experience working on this assignment but I do wish I had access to more
+        tools and resources so I could have created something of even higher
+        quality.
+      </p>
       <br />
       <br />
       <br />
       <br />
-      <Footer datetime="10/04/2022, 08:57:52 PM" />
+      <Footer datetime="10/04/2022, 09:57:52 PM" />
     </div>
   );
 }
