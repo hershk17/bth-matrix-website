@@ -11,7 +11,7 @@ export default function MySketch(props) {
   // sets up the canvas and loads in assets to be used for drawing
   const setup = (p5, canvasParentRef) => {
 
-    // creates a 810 x 410 canvas
+    // creates an 810 x 410 canvas
     p5.createCanvas(810, 410).parent(canvasParentRef);
 
     // loads an image of a road and 2 clouds
